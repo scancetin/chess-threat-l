@@ -1,11 +1,12 @@
-Python Chess Threat Controller
+## Python Chess Threat Controller
 
-About
+### About
 
 This project will find if piece is in danger, and calculate points for both sides.
 
-Example
+### Example
 
+'''
 -- as -- vs ss -- -- fs
 -- -- -- -- ps -- -- --
 -- ab ps -- -- fb ab --
@@ -14,6 +15,7 @@ vb -- -- pb pb -- -- --
 -- -- -- -- -- -- -- --
 -- -- -- -- -- -- pb --
 -- -- -- -- sb -- -- kb
+'''
 
 https://raw.githubusercontent.com/scancetin/chess-threat-l/master/examples/board2.png
 
