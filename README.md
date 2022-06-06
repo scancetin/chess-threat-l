@@ -17,6 +17,6 @@ vb -- -- pb pb -- -- --
 -- -- -- -- sb -- -- kb
 ```
 
-https://raw.githubusercontent.com/scancetin/chess-threat-l/master/examples/board2.png
+[Board 2](https://raw.githubusercontent.com/scancetin/chess-threat-l/master/examples/board2.png)
 
 #### Black:116	White:123
